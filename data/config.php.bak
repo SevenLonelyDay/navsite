@@ -1,0 +1,17 @@
+<?php
+//数据库配置
+$db_config = array(
+    "type" => "sqlite", //类型
+    "file" => "data_1685672845820_B5e1Cw0WKzJ5q2JoJeJe.db3" //文件
+);
+
+//$db_config = array(
+//    "type" => "mysql", //类型
+//	"host" => "127.0.0.1", //地址
+//	"port" => 3306, //端口
+//	"name" => "one_nav", //库名
+//	"user" => "root", //账号
+//	"password" => "root" //密码
+//);
+
+?>
